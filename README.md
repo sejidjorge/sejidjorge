@@ -8,6 +8,7 @@ Hello, I'm a Web Developer, I know a little bit about HTML, CSS, Tailwind, NextJ
 
 * 🌍  I'm based in São Paulo - SP
 * ✉️  You can contact me at [sejidjorge@gmail.com](mailto:sejidjorge@gmail.com)
+* 🚀  I'm currently working on [Helpie!](http://helpie.com.br)
 * 🧠  I'm learning VueJS and UX Design
 * ⚡  I'm from the dark mode of the force
 
