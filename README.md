@@ -4,7 +4,7 @@ Hi 👋 My name is Jorge Luis
 Web Developer
 -------------
 
-Olá, sou Desenvolvedor Web, conheço um pouco de HTML, CSS, Tailwind, NextJs, ReactJs, NodeJs, Javascript, PHP, Bootstrap, MySQL, Sass e Styled Components. Eu gosto de desmontar, consertar ou apenas descobrir do que as coisas são feitas e como elas funcionam :)
+Hello, I'm a Web Developer, I know a little bit about HTML, CSS, Tailwind, NextJs, ReactJs, NodeJs, Javascript, PHP, Bootstrap, MySQL, Sass and Styled Components. I like to take apart, fix or just find out what things are made of and how they work :)
 
 * 🌍  I'm based in São Paulo - SP
 * ✉️  You can contact me at [sejidjorge@gmail.com](mailto:sejidjorge@gmail.com)
@@ -37,7 +37,7 @@ Olá, sou Desenvolvedor Web, conheço um pouco de HTML, CSS, Tailwind, NextJs, R
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Ares-I#3808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sejidjorge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ares-I#3808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sejidjorge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jldevfrontend/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
